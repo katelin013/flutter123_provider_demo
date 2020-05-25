@@ -2,7 +2,7 @@
 
 # Flutter123 關於 Provider
 
-在 Flutter 的世界中，所有的東西都是一個 Widget，而 Widget 會繼續包著 Widget ，下圖是使用 Android Studio 新建立的一個專案，一開始的預設程式碼以及畫面。
+在 Flutter 的世界中，所有的東西都是一個 Widget，而 Widget 會繼續包著 Widget
 [Medium](https://medium.com/@katelin013/flutter123-%E9%97%9C%E6%96%BC-provider-14e4ec66f402)
 ---
 
